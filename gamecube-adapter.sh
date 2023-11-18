@@ -1,3 +1,4 @@
+#!/usr/bin/bash
 echo "Creating rules.d file....\n"
 touch /etc/udev/rules.d/51-gcadapter.rules
 echo "Editing rules.d file....\n"
